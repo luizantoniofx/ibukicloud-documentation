@@ -18,7 +18,7 @@ That's when I had the idea of messing around with virtualization but getting a p
 
 > Reverse proxy is being used for the homepage,nextcloud,blog and node-red thus why nextcloud and wordpress have the same port. Internal ports are different across all services and they are subject to change. all internal/external ports,mac addresses,disk locations and more and managed on a spreadsheet which is saved locally on my PC,Nextcloud Instance and on my phone.
 
-As you can see on the table above the only service running under Windows Server is Minecraft and Active Directory. Why you may ask me? Well...if I had to create a VM to mess with Active Directory why not use it for something more :p treating it like a server anyway. Ubuntu Server is my go-choice for home servers because I don't see the reason of going CentOS and totally overkill to go with Arch Linux. I always go with LTS though so I can just chill and have my services run for some time without worrying too much about maintaining the operating systems they live in :D
+As you can see on the table above the only services running under Windows Server is Minecraft and Active Directory. Why you may ask me? Well...if I had to create a VM to mess with Active Directory why not use it for something more :p treating it like a server anyway. Ubuntu Server is my go-choice for home servers because I don't see the reason of going CentOS and totally overkill to go with Arch Linux. I always go with LTS though so I can just chill and have my services run for some time without worrying too much about maintaining the operating systems they live in :D
 
 ## Virtual Machine codenames and some explanations
 ![Main Temporary Page of IbukiCloud](https://i.imgur.com/yoWwyIV.png)
